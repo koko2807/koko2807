@@ -1,5 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koko2807&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koko2807&show_icons=true&theme=radical)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phy122&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 ### ✔️공통
 <div align="center">
