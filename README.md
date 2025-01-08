@@ -1,11 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koko2807&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koko2807&show_icons=true&theme=radical)
 
-<div align="center">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
 ### ✔️Frond-end
 <div align="center">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
